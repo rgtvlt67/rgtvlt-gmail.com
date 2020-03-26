@@ -16,7 +16,8 @@ library(reshape2)
  library(stringr)
 
 
-setwd("C:/2019/boundary")
+setwd("rgtvlt67/
+rgtvlt-gmail.com")
 
 volume_sed_stand_SP_join <- read.csv("itcvolbndry.csv",stringsAsFactors=FALSE)
 library(shiny)
